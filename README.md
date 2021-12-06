@@ -10,5 +10,3 @@ From each sector, select the top 30 stocks with the highest Free Cash Flow to Pr
 
 ### Momentum Strategy
 <img alt="Momentum Strategy" src="Strategy.png" width="800">
-
-# MomentumTradingAlgorithm
